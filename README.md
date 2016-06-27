@@ -15,3 +15,9 @@ echo "<?php phpinfo();?>" > test.php
 git clone https://github.com/nateforeman/awsstudent-first-ec2
 
 ~~~~
+
+Then enter the following url in your web browser:
+
+~~~~
+http://[EC2 Instance Public IP]/awsstudent-first-ec2
+~~~~
