@@ -1,7 +1,7 @@
 ## A simple PHP WebApp to run on an EC2 instance
 
 ### Usage
-Lanunch an EC2 Instance with the following User Data:
+Lanunch an EC2 Instance with a public IP address, and the following User Data:
 
 ~~~~
 
