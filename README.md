@@ -1,5 +1,4 @@
-# awsstudent-first-ec2
-A simple PHP WebApp for aws students to run on an EC2 instance
+# A simple PHP WebApp for aws students to run on an EC2 instance
 
 ## Usage
 Lanunch an EC2 Instance with the following User Data:
