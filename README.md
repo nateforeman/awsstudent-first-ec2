@@ -1,8 +1,10 @@
 # awsstudent-first-ec2
 A simple PHP WebApp for aws students to run on an EC2 instance
 
-# Usage
+## Usage
 Lanunch an EC2 Instance with the following User Data:
+
+~~~~
 
 #!/bin/bash
 yum update -y
@@ -13,3 +15,4 @@ cd /var/www/html
 echo "<?php phpinfo();?>" > test.php
 git clone https://github.com/nateforeman/awsstudent-first-ec2
 
+~~~~
